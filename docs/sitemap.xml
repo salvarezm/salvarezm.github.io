@@ -3,6 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2023-06-07T12:42:37-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2023-06-07T12:42:37-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/why-i-think-windows-11-ui-sucks/</loc>
+            <lastmod>2023-06-07T12:42:37-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
   
     
   
@@ -18,15 +45,6 @@
     
       <url>
             <loc>http://localhost:1313/portfolio/react-pokedex/</loc>
-            <lastmod>2023-06-06T15:33:03-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
             <lastmod>2023-06-06T15:33:03-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

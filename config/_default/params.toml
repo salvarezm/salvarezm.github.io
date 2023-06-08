@@ -18,7 +18,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 
 defaultBackgroundImage = "capiback.png" # used as default for background images 
-defaultFeaturedImage = "capiback.png" # used as default for featured images in all articles
+#defaultFeaturedImage = "capiback.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on salvarez</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on salvarez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Jun 2023 12:42:37 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Think Windows 11 UI Sucks</title>
+      <link>http://localhost:1313/posts/why-i-think-windows-11-ui-sucks/</link>
+      <pubDate>Wed, 07 Jun 2023 12:42:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-i-think-windows-11-ui-sucks/</guid>
+      <description>Why Windows 11 UI Sucks # In this article, I will tell you why the UI of Windows 11 sucks and why I will stick with Windows 10 for a while.</description>
+    </item>
+    
+  </channel>
+</rss>
