@@ -9,7 +9,7 @@ draft: false
 In this article, I will tell you why the UI of Windows 11 sucks and why I will stick with Windows 10 for a while.
 
 ### The Promise of a New Interface
-With the release of Windows 11, many users were eager to experience the refreshed UI and its promised improvements. However, upon installation and initial usage I feel disappointed and even frustrated by the interface.
+With the release of Windows 11 many users were eager to experience the refreshed UI and its promised improvements. However, upon installation and initial usage I feel disappointed and even frustrated by the interface.
 
 One of the immediate observations is the apparent resemblance to older interfaces, such as Linux Mint from a decade ago or custom themes for Windows XP created by individuals. 
 
