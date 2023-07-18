@@ -5,20 +5,20 @@
     
   
     
-  
-    
       <url>
-            <loc>http://localhost:1313/portfolio/</loc>
-            <lastmod>2023-06-06T15:33:03-04:00</lastmod>
+            <loc>http://localhost:1313/portfolio/nextjs-pokedex/</loc>
+            <lastmod>2023-07-18T11:33:03-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
     
+  
+    
       <url>
-            <loc>http://localhost:1313/portfolio/react-pokedex/</loc>
-            <lastmod>2023-06-06T15:33:03-04:00</lastmod>
+            <loc>http://localhost:1313/portfolio/</loc>
+            <lastmod>2023-07-18T11:33:03-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -27,6 +27,15 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2023-07-18T11:33:03-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/portfolio/react-pokedex/</loc>
             <lastmod>2023-06-06T15:33:03-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

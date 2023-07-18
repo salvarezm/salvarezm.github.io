@@ -17,9 +17,12 @@ Stack:
 	<li>theme-ui</li>
 </ul>
 
-![react pokedex](featured.png "Image caption")
-
-
 https://salvarez-pokedex.netlify.app/
 
 https://github.com/salvarezm/pokedex-webapp
+
+![react pokedex](mobile.png "Pokedex Mobile version")
+
+![react pokedex](featured.png "Pokedex Desktop version")
+
+

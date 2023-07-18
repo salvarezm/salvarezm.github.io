@@ -6,7 +6,16 @@
     <description>Recent content in portfolio on salvarez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 15:33:03 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 11:33:03 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js Pokedex</title>
+      <link>http://localhost:1313/portfolio/nextjs-pokedex/</link>
+      <pubDate>Tue, 18 Jul 2023 11:33:03 -0400</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/nextjs-pokedex/</guid>
+      <description>Next.js Pokedex is a small app that list pokemons build on top of Next.</description>
+    </item>
+    
     <item>
       <title>React Pokedex</title>
       <link>http://localhost:1313/portfolio/react-pokedex/</link>
